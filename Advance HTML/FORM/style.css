@@ -1,0 +1,51 @@
+html {
+  background-image: url("bg5.jpg");
+}
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+h4 {
+  font-weight: normal;
+}
+input,
+textarea {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+
+button[type="submit"] {
+  background-color: #097fa6;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px; /* add a 10px margin to the left of the second button */
+}
+button[type="reset"] {
+  background-color: #097fa6;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-left: 10px; /* add a 10px margin to the left of the second button */
+}
+
+button[type="reset"] {
+  margin-left: 10px; /* add a 10px margin to the left of the second button */
+  background-color: #097fa6;
+}
+button[type="submit"] {
+  background-color: add8e6;
+}
